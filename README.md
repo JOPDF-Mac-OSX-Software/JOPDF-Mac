@@ -7,7 +7,7 @@
 
 <td width="230" align="center" valign="middle">
 
-<img src="https://w7.pngwing.com/pngs/874/165/png-transparent-pdf-reader-pro-macos-bigsur-icon-thumbnail.png" width="200"><br>
+<img src="https://img.utdstc.com/icon/b30/2d4/b302d4c575a8c7a2ed3a26beea3d93cb4e0532ac7337e364f38337769a6686f4:200" width="200"><br>
 
 <a href="https://mac-apps-install.github.io/.github/jopdf">
   <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180">
